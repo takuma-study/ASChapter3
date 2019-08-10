@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelloApplication</string>
+    <string name="hello">ちわ！アンドロイド</string>
+    <string name="tap_here">ここをタップ</string>
 </resources>
